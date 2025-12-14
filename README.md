@@ -1,14 +1,11 @@
-<div 
-    <img src="https://1000logos.net/wp-content/uploads/2020/08/Python-Logo.jpg" alt="Python Logo" width="100" height="auto">
-</div>
-
-
-
 <!DOCTYPE html>
 <html>
 <head>
   <meta name="databricks-html-version" content="1">
 <title>Cap5 - Gimnasia de marcos de datos: Unión y agrupación - Databricks</title>
+
+<img src="https://1000logos.net/wp-content/uploads/2020/08/Python-Logo.jpg" alt="Python Logo" width="100" height="auto">
+
 
 <meta charset="utf-8">
 <meta name="google" content="notranslate">
