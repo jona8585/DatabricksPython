@@ -1,5 +1,4 @@
-mira este es un artchiov en su interior hay codigo html pquiero colocarle el logo de python conloocalo en la parte supoerior derecha en pequeñohtml dado.txtAquí tienes el HTML modificado con el logo de Python agregado en la esquina superior derecha, en tamaño pequeño (ancho de 100px). Lo inserté justo después de la etiqueta <body> dentro de un <div> con posición absoluta para que se ubique correctamente sin afectar el resto del contenido.
-Para evitar que el mensaje sea demasiado largo (el archivo original es extenso), te muestro el código completo modificado en un bloque. Puedes copiarlo y guardarlo como un nuevo archivo HTML.HTML<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
   <meta name="databricks-html-version" content="1">
