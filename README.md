@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
+<head>``
   <meta name="databricks-html-version" content="1">
 <title>Cap5 - Gimnasia de marcos de datos: Unión y agrupación - Databricks</title>
 
